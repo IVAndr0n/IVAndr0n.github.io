@@ -214,8 +214,7 @@ div.col-sm-3 img.profile-avatar {
 
 /* `` Code symbol format */
 code {
-  padding: 2px 4px;
-  font-size: 70%;
+  font-size: 80%;
   color: #F0F6FC;
   background-color: #393F48;
 }
