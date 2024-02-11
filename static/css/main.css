@@ -211,3 +211,13 @@ div.col-sm-3 img.profile-avatar {
     margin-top: 30px;
   }
 }
+
+code {
+  font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+code {
+  padding: 2px 4px;
+  font-size: 90%;
+  color: #F0F6FC;
+  background-color: #393F48;
+}
