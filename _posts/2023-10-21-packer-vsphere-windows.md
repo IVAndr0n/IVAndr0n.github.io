@@ -136,7 +136,7 @@ $ tree --dirsfirst -F
 2. Запустите скрипт `build_all_windows_without_duration_record_parallel.cmd`.
 3. Скрипт автоматически найдет все файлы конфигурации Packer (`.pkrvar.hcl`) в текущей директории и запустит процесс создания образов для каждого из них параллельно.
 
-### Поддерживаемые версии Windows:
+### Поддерживаемые версии Windows
 
 - Windows 7 x86/x64
 - Windows 10 x86/x64
