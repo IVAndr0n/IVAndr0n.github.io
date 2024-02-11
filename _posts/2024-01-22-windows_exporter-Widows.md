@@ -20,7 +20,7 @@ categories:
 
 На данном этапе **windows_exporter** уже должен работать.
 
-С возможностями тонкой настройки можно ознакомиться по ссылке [windows_exporter](https://github.com/prometheus-community/windows_exporter){:target="_blank" :rel="noopener noreferrer"}.
+С возможностями тонкой настройки можно ознакомиться по [ссылке](https://github.com/prometheus-community/windows_exporter){:target="_blank" :rel="noopener noreferrer"}.
 
 ## Шаг 3: Настройка доступа к веб-интерфейсу программы
 
