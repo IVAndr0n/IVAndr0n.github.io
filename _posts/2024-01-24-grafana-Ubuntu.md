@@ -20,7 +20,7 @@ categories:
 > *-выполняем автономную установку 'sudo apt install -qq -y ./grafana_${VERSION}_amd64.deb';*
 > *-переходим к шагу 3.*
 
-Установку с помощью менеджера пакетов выполняем согласно официальной инструкции [Grafana](https://web.archive.org/web/20240127092921/https://grafana.com/docs/grafana/latest/setup-grafana/installation/debian/#install-from-apt-repository){:target="_blank" :rel="noopener noreferrer"}.
+Установку с помощью менеджера пакетов выполняем согласно официальной инструкции <a target="_blank" rel="noopener noreferrer" href="ttps://web.archive.org/web/20240127092921/https://grafana.com/docs/grafana/latest/setup-grafana/installation/debian/#install-from-apt-repository">Grafana</a>.
 
 ## Шаг 1: Подготовка системы
 
@@ -94,6 +94,6 @@ sudo ufw reload
 sudo grafana-cli admin reset-admin-password <new_password>
 ```
 
-> **Примечание.** *В [статье](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-grafana-on-ubuntu-22-04){:target="_blank" :rel="noopener noreferrer"} описаны некоторые настройки безопасности **Grafana**.*
+> **Примечание.** *В <a target="_blank" rel="noopener noreferrer" href="https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-grafana-on-ubuntu-22-04">статье</a> описаны некоторые настройки безопасности **Grafana**.*
 
 Установка завершена!

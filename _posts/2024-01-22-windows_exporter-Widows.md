@@ -12,7 +12,7 @@ categories:
 
 ## Шаг 1: Загрузка программы
 
-Откройте в браузере веб-сайт разработчика [windows_exporter](https://github.com/prometheus-community/windows_exporter/releases){:target="_blank" :rel="noopener noreferrer"} и скачайте последнюю версию в формате **amd64.msi** - *windows_exporter-${VERSION}-amd64.msi*.
+Откройте в браузере веб-сайт разработчика <a target="_blank" rel="noopener noreferrer" href="https://github.com/prometheus-community/windows_exporter/releases">windows_exporter</a> и скачайте последнюю версию в формате **amd64.msi** - *windows_exporter-${VERSION}-amd64.msi*.
 
 ## Шаг 2: Установка и настройка программы
 
@@ -20,7 +20,7 @@ categories:
 
 На данном этапе **windows_exporter** уже должен работать.
 
-С возможностями тонкой настройки можно ознакомиться по [ссылке](https://github.com/prometheus-community/windows_exporter){:target="_blank" :rel="noopener noreferrer"}.
+С возможностями тонкой настройки можно ознакомиться по <a target="_blank" rel="noopener noreferrer" href="https://github.com/prometheus-community/windows_exporter">ссылке</a>.
 
 ## Шаг 3: Настройка доступа к веб-интерфейсу программы
 
