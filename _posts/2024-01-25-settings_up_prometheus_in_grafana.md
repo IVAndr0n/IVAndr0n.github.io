@@ -39,7 +39,7 @@ Prometheus server URL: <http://FQDN_or_IP_Your_Server:9090>
 
 :four: Скачайте дашборд.
 
-На время закачки подключаем VPN и скачиваем с официального сайта [Grafana](https://grafana.com/grafana/dashboards/){:target="_blank"}{:rel="noopener noreferrer"} необходимый дашборд в формате JSON файла.
+На время закачки подключаем VPN и скачиваем с официального сайта [Grafana](https://grafana.com/grafana/dashboards/){:target="_blank" :rel="noopener noreferrer"} необходимый дашборд в формате JSON файла.
 
 <img allign="left" alt="img" src="https://raw.githubusercontent.com/IVAndr0n/IVAndr0n.github.io/main/_posts/images/2024-01-25-settings_up_prometheus_in_grafana/07.png" width="450">
 

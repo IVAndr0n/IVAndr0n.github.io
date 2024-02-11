@@ -44,7 +44,7 @@ curl -s https://api.github.com/repos/prometheus/node_exporter/releases/latest | 
 
 :two: Обычный, используя браузер и консоль
 
-Откройте в браузере веб-сайт разработчика [node_exporter](https://prometheus.io/download/#node_exporter){:target="_blank"}{:rel="noopener noreferrer"} и скопируйте ссылку на последний релиз для linux в формате tar.gz, добавьте ссылку к wget. Пример:
+Откройте в браузере веб-сайт разработчика [node_exporter](https://prometheus.io/download/#node_exporter){:target="_blank" :rel="noopener noreferrer"} и скопируйте ссылку на последний релиз для linux в формате tar.gz, добавьте ссылку к wget. Пример:
 
 ```sh
 wget https://github.com/prometheus/node_exporter/releases/download/v${VERSION}/node_exporter-${VERSION}.linux-amd64.tar.gz
