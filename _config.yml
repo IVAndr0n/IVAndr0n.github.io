@@ -1,0 +1,50 @@
+# Main blog information
+author: Andrey Eremchuk
+title: Devops.Learn.Share
+description: This blog contains write-ups of the things that I researched, learned, and wanted to share to others.
+about: Per aspera ad astra
+avatar_url: /static/img/avatar.jpg
+github: https://github.com/IVAndr0n
+
+google_analytics: UA-XXXXXXXX-Y
+
+# Timezone and tag settings
+timezone: UTC
+enableTags: true
+tagarray: []
+
+# Social links
+social:
+  - icon: fa-github
+    link: "https://github.com/IVAndr0n"
+  - icon: fa-linkedin
+    link: "https://www.linkedin.com/in/andrey-eremchuk"
+  - icon: fa-telegram
+    link: "https://t.me/IVAndr0n"
+
+# URLs for pages and main URL
+urls:
+  - text: Categories
+    url: /category/monitoring
+  - text: About Me
+    url: /about/
+url: "https://ivandr0n.github.io"
+baseurl: ""
+
+# Pagination settings
+paginate: 19
+paginate_path: "/page/:num/"
+
+# Markdown formatting and plugins
+markdown: kramdown
+plugins:
+  - jekyll-gist
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-sitemap
+
+# HTML compression settings
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all

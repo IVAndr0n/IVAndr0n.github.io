@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Roboto Condensed Light'), local('RobotoCondensed-Light'),
+       url('../fonts/RobotoCondensed-Light-v27.woff2') format('woff2'); /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Roboto Condensed Light Italic'), local('RobotoCondensed-LightItalic'),
+       url('../fonts/RobotoCondensed-LightItalic-v27.woff2') format('woff2'); /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto Condensed Light'), local('RobotoCondensed-Light'),
+       url('../fonts/RobotoCondensed-Regular-v27.woff2') format('woff'); /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Roboto Condensed Light Italic'), local('RobotoCondensed-LightItalic'),
+       url('../fonts/RobotoCondensed-Italic-v27.woff2') format('woff'); /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Roboto Condensed Light'), local('RobotoCondensed-Light'),
+       url('../fonts/RobotoCondensed-Bold-v27.woff2') format('woff'); /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
