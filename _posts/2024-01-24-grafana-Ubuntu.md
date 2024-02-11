@@ -20,7 +20,7 @@ categories:
 > *-выполняем автономную установку 'sudo apt install -qq -y ./grafana_${VERSION}_amd64.deb';*
 > *-переходим к шагу 3.*
 
-Установку с помощью менеджера пакетов выполняем согласно официальной инструкции <a target="_blank" rel="noopener noreferrer" href="ttps://web.archive.org/web/20240127092921/https://grafana.com/docs/grafana/latest/setup-grafana/installation/debian/#install-from-apt-repository">Grafana</a>.
+Установку с помощью менеджера пакетов выполняем согласно официальной инструкции <a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/20240127092921/https://grafana.com/docs/grafana/latest/setup-grafana/installation/debian/#install-from-apt-repository">Grafana</a>.
 
 ## Шаг 1: Подготовка системы
 
