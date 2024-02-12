@@ -46,7 +46,7 @@ curl -s https://api.github.com/repos/prometheus/prometheus/releases/latest | gre
 
 :two: Обычный, используя браузер и консоль
 
-Откройте в браузере веб-сайт разработчика <a target="_blank" rel="noopener noreferrer" href="https://prometheus.io/download/#prometheus">Prometheus</a> и скопируйте ссылку на последний релиз для linux в формате tar.gz, добавьте ссылку к wget. Пример:
+Откройте в браузере веб-сайт разработчика [Prometheus](https://prometheus.io/download/#prometheus) и скопируйте ссылку на последний релиз для linux в формате tar.gz, добавьте ссылку к wget. Пример:
 
 ```sh
 wget https://github.com/prometheus/prometheus/releases/download/v${VERSION}/prometheus-${VERSION}.linux-amd64.tar.gz

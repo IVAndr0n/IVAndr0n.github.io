@@ -22,7 +22,7 @@ categories:
 >
 > *-переходим к шагу 3.*
 
-Установку с помощью менеджера пакетов выполняем согласно официальной инструкции <a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/20240127092921/https://grafana.com/docs/grafana/latest/setup-grafana/installation/debian/#install-from-apt-repository">Grafana</a>.
+Установку с помощью менеджера пакетов выполняем согласно официальной инструкции [Grafana](https://web.archive.org/web/20240127092921/https://grafana.com/docs/grafana/latest/setup-grafana/installation/debian/#install-from-apt-repository).
 
 ## Шаг 1: Подготовка системы
 
